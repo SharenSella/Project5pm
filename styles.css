@@ -1,0 +1,36 @@
+html{
+    background-color: gold;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.stble table{
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+
+.stble {
+    margin: 50%;
+}
+
+th{
+    background-color: black;
+    color: red;
+}
+
+td{
+    padding: 10px;
+    border: 1px solid black;
+}
+a:hover {
+    background-color: red;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+li.accent{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
